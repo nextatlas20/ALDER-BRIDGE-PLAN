@@ -1,0 +1,5 @@
+borough,bridge_count,urgent_count,overdue_count,scheduled_count
+Eastbank,2,1,0,2
+Northgate,1,0,0,1
+Riverside,2,0,1,0
+Westfield,1,0,1,0
