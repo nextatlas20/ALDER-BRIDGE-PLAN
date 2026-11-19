@@ -1,0 +1,7 @@
+bridge_id,borough,last_certified,interval_days
+AB-01,Eastbank,2025-10-15,180
+AB-02,Eastbank,2026-01-20,90
+AB-03,Northgate,2025-12-31,120
+AB-04,Riverside,2025-07-01,270
+AB-05,Riverside,2026-03-01,45
+AB-06,Westfield,2025-11-15,150
